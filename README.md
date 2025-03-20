@@ -1,6 +1,6 @@
 # Enhanced Robust Tracking Control: An Online Learning Approach
 
-This repo contains the implementation code of the paper "Online Learning Enhanced CCM Tracking Performance" by Ao Jin, Weijian Zhao, Yifeng Ma, Ganghui Shen, Panfeng, Huang, and Fan Zhang*.
+This repo contains the implementation code of the paper "Online Learning Enhanced CCM Tracking Performance" by Ao Jin, Weijian Zhao, Yifeng Ma, Panfeng, Huang, and Fan Zhang*.
 
 This work focuses the tracking control problem for nonlinear systems subjected to unknown external disturbances. Inspired by contraction theory, a neural network-dirven CCM synthesis is adopted to obtain a feedback controller that could track any feasible trajectory. Based on the observation that the system states under continuous control input inherently contain embedded information about unknown external disturbances, we propose an online learning scheme that captures the disturbances dyanmics from online historical data and embeds the compensation within the CCM controller. The proposed scheme operates as a plug-and-play module that intrinsically enhances the tracking performance of CCM synthesis. The numerical simulations on tethered space robot and PVTOL demonstrate the effectiveness of proposed scheme. 
 
