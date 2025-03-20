@@ -55,7 +55,7 @@ If you find this repo useful in your research, please cite our work:
 ```context
 @misc{jin2025online_ccm,
       title={Enhanced Robust Tracking Control: An Online Learning Approach}, 
-      author={Ao Jin and Weijian Zhao and Yifeng Ma and Ganghui Shen and Panfeng Huang and Fan Zhang},
+      author={Ao Jin and Weijian Zhao and Yifeng Ma and Panfeng Huang and Fan Zhang},
       year={2025},
       eprint={},
       url={}, 
