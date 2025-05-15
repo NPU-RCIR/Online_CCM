@@ -61,3 +61,17 @@ If you find this repo useful in your research, please cite our work:
       url={https://arxiv.org/abs/2505.05036}, 
 }
 ```
+
+```context
+@article{Jin2024a,
+  author = {Ao, Jin and Fan, Zhang and Ganghui, Shen and Yifeng, Ma and Panfeng, Huang},
+  journal = {IEEE Transactions on Aerospace and Electronic Systems},
+  title = {A Learning-Based Scheme for Safe Deployment of Tethered Space Robot},
+  year = {2025},
+  volume = {61},
+  number = {2},
+  pages = {2941-2955},
+  doi = {10.1109/TAES.2024.3480893},
+}
+```
+
