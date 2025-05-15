@@ -1,0 +1,1 @@
+python train.py --env PVTOL --experiment PVTOL --model_name ccm_nn

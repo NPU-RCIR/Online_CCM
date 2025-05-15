@@ -1,0 +1,1 @@
+python planning.py --env TSR --experiment TSR --model_name planning

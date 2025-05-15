@@ -1,0 +1,1 @@
+python train.py --env TSR --experiment TSR --model_name ccm_nn
