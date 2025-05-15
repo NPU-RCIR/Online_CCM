@@ -8,14 +8,14 @@ This work focuses the tracking control problem for nonlinear systems subjected t
     <img src="assets/framework.png" width="50%">
 </div>
 
-Our paper: [Enhanced Robust Tracking Control: An Online Learning Approach](links)
+Our paper: [Enhanced Robust Tracking Control: An Online Learning Approach](https://arxiv.org/abs/2505.05036)
 
 ## 1. Getting Started
 
 Before running the code, install the dependency packages in a virtual python env by executing the following command:
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 2. The Main Module
@@ -53,11 +53,11 @@ Typical Workflow:
 If you find this repo useful in your research, please cite our work:
 
 ```context
-@misc{jin2025online_ccm,
+@misc{jin2025enhancedrobusttrackingcontrol,
       title={Enhanced Robust Tracking Control: An Online Learning Approach}, 
       author={Ao Jin and Weijian Zhao and Yifeng Ma and Panfeng Huang and Fan Zhang},
       year={2025},
-      eprint={},
-      url={}, 
+      eprint={2505.05036},
+      url={https://arxiv.org/abs/2505.05036}, 
 }
 ```
